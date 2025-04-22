@@ -104,7 +104,7 @@ public class Main {
                     두 번재 단어의 첫 번째 문자만 대문자
                     ex) 한 단어 짜리 : result
                     ex) 복수 단어 : myTestResult
-                2. 툭수 문자 지양
+                2. 특수 문자 지양
 
                 cf) 파이썬 학습하신 분들은 파이썬의 변수 표기 방식은 snake case라고해서
                 my_test_result와 같은 방식으로 작성합니다.
