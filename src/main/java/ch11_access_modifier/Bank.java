@@ -106,7 +106,7 @@ public class Bank {
         this.pinNumber = pinNumber;
     }
 
-    // settter / getter
+    // setter / getter
 
     public int getAccountNum() {
         return accountNum;
