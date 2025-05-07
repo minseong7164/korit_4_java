@@ -147,7 +147,7 @@ public class Main {
 
         System.out.println("저는 코리아 it 아카데미 4월 국비 과정을 수강하고 있는 " + name4 + "입니다. " + age4
                 + "살입니다.");
-        System.out.println("제 전공은" + major4 + "이며, mbti는 " + mbti4 + " 입니다. 열심히 할게요!!!");
+        System.out.println("제 전공은 " + major4 + "이며, mbti는 " + mbti4 + " 입니다. 열심히 할게요!!!");
 
         // ch03_operator 패키지 생성 -> Operator01 클래스 생성 -> main 메서드 생성
     }

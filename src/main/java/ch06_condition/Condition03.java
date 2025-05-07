@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
     if - else if문 : if - else문과 달리 else if에는 별도의 조건식이 요구됨.
-        긜고 else if는 여러 개 나올 수 있습니다.
+        그리고 else if는 여러 개 나올 수 있습니다.
 
     형식 :
     if(조건식1) {

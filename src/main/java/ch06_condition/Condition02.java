@@ -15,12 +15,7 @@ public class Condition02 {
         if (num1 > 0){
             System.out.println("num1은 양수입니다.");
         } else {
-            System.out.println();
+            System.out.println("num1은 0이거나 음수입니다.");
         }
-
-
-
-
-
     }
 }

@@ -17,6 +17,7 @@ import java.util.Scanner;
             실행문1c
         } else {
             실행문1d
+        }
     } else if(조건식2) {
         실행문2
         if(조건식2a) {
@@ -42,10 +43,10 @@ public class Condition07 {
         if (score > 100 || score < 0) {
             System.out.println("불가능한 점수 입력입니다.");
             grade = "X";
-        } else {                            // 42번 라인의 조건식에 해당되지 않는 score 범위 0<=score<=100
+        } else {                            // 43번 라인의 조건식에 해당되지 않는 score 범위 0<=score<=100
             if (score > 89) {
                 grade = "A";
-            }else if (score > 79) {
+            } else if (score > 79) {
                 grade = "B";
             } else if (score > 69) {
                 grade = "C";
@@ -55,6 +56,7 @@ public class Condition07 {
                 grade = "F";
             }
         }
-        System.out.println("당신의 점수는 " + score + "이고, 학점은 " + grade + "입니다.");
+
+        System.out.println("당신의 점수는 " + score + "점이고, 학점은 " + grade + "입니다.");
     }
 }
